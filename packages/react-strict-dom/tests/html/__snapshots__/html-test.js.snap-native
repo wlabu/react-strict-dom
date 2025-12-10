@@ -3201,6 +3201,7 @@ exports[`<html.*> "input" supports global attributes 1`] = `
     }
   }
   accessibilityViewIsModal={true}
+  autoCapitalize="sentences"
   enterKeyHint="go"
   focusable={true}
   importantForAccessibility="no-hide-descendants"
@@ -5483,6 +5484,7 @@ exports[`<html.*> "textarea" supports global attributes 1`] = `
     }
   }
   accessibilityViewIsModal={true}
+  autoCapitalize="sentences"
   enterKeyHint="go"
   focusable={true}
   importantForAccessibility="no-hide-descendants"
